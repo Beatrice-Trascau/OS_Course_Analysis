@@ -1,3 +1,4 @@
-#nfeuiyrakra
+# Trial for new repository
+library(usethis)
 
-library(rgbif)
+use_github()
